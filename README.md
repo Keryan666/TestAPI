@@ -12,6 +12,8 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés :
 4. Entity Framework Core : Utilisé pour interagir avec la base de données.
 
 ## Installation
+dotnet new webapi -n TestAPI
+
 
 Pour installer les dépendances nécessaires, ouvrez votre terminal et exécutez les commandes suivantes :
 - dotnet add package Pomelo.EntityFrameworkCore.MySql
